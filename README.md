@@ -1,4 +1,4 @@
 stargazer-pt_BR
 ===============
 
-Brazilian Portuguese Translations files for Stargazer theme by Justin Tadlock
+Brazilian Portuguese Translation files for Stargazer theme by Justin Tadlock
