@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2014-11-06 03:01-0300\n"
+"PO-Revision-Date: 2014-11-10 02:43-0300\n"
 "Last-Translator: Alexandre Kozoubsky <alexandre@alexandrekozoubsky.com>\n"
 "Language-Team: Alexandre Kozoubsky <alexandre@alexandrekozoubsky.com>\n"
 "X-Generator: Poedit 1.5.4\n"
@@ -507,7 +507,7 @@ msgstr "%s Menu"
 #: misc/comments-error.php:6
 msgid "Comments are closed, but %strackbacks%s and pingbacks are open."
 msgstr ""
-"Os comentários estão fechado mas %strackbacks%s e pingbacks estão abertos."
+"Os comentários estão fechados mas %strackbacks%s e pingbacks estão abertos."
 
 #: misc/comments-error.php:13
 msgid "Comments are closed."
