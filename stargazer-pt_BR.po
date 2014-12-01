@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2014-11-10 03:13-0300\n"
+"PO-Revision-Date: 2014-12-01 03:24-0300\n"
 "Last-Translator: Alexandre Kozoubsky <alexandre@alexandrekozoubsky.com>\n"
 "Language-Team: Alexandre Kozoubsky <alexandre@alexandrekozoubsky.com>\n"
 "X-Generator: Poedit 1.5.4\n"
@@ -37,7 +37,7 @@ msgstr "Publicado em %s"
 #: content/link.php:27 content/quote.php:17 content/status.php:25
 #: content/video.php:29
 msgid "Tagged %s"
-msgstr "Marcação %s"
+msgstr "Marcado como %s"
 
 #: content/attachment-audio.php:28 inc/stargazer.php:409
 msgid "Audio Info"
